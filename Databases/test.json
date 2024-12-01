@@ -1,0 +1,1330 @@
+{
+  "UserId": "uehL9kfcf6Fnyq%2ftlczfYQ%3d%3d",
+  "ProjectId": 402158,
+  "ProjectHash": "869291dad566968b02f93bbcbdb398b2",
+  "Products": [
+    {
+      "PositionId": 306834,
+      "ParentKitId": 306834,
+      "ProductId": 2013,
+      "ProductDescription": "HST DREWNO 78 MM Gat:Sosna K:BILINGA U:Czarna (RAL9004) W:3000 H:2000 STD ",
+      "CatalogPrice": 6501.4200,
+      "ExportPrice": 6501.4195,
+      "EvidencePrice": 3250.7027,
+      "Quantity": 1,
+      "Names": {
+        "pl": "OKNO DREWNIANE",
+        "en": "OKNO DREWNIANE",
+        "de": "OKNO DREWNIANE"
+      },
+      "Descriptions": {
+        "pl": "HST DREWNO 78 MM Gat:Sosna K:BILINGA U:Czarna (RAL9004) W:3000 H:2000 STD ",
+        "en": "HST DREWNO 78 MM Gat:Sosna K:BILINGA U:Czarna (RAL9004) W:3000 H:2000 STD ",
+        "de": "HST DREWNO 78 MM Gat:Sosna K:BILINGA U:Czarna (RAL9004) W:3000 H:2000 STD "
+      },
+      "Attributes": [
+        {
+          "FeatureId": 2,
+          "FeatureNames": {
+            "pl": "Rodzaj produktu",
+            "en": "Rodzaj produktu",
+            "de": "Rodzaj produktu"
+          },
+          "FeatureValue": "DREW",
+          "FeatureValueNames": {
+            "pl": "Okno Drewniane",
+            "en": "Okno Drewniane",
+            "de": "Okno Drewniane"
+          },
+          "Order": 0,
+          "Visible": 0
+        },
+        {
+          "FeatureId": 3,
+          "FeatureNames": {
+            "pl": "Produkt standardowy",
+            "en": "Produkt standardowy",
+            "de": "Produkt standardowy"
+          },
+          "FeatureValue": "std",
+          "FeatureValueNames": {
+            "pl": "Standardowy",
+            "en": "Standardowy",
+            "de": "Standardowy"
+          },
+          "Order": 0,
+          "Visible": 0
+        },
+        {
+          "FeatureId": 14,
+          "FeatureNames": {
+            "pl": "Ilość",
+            "en": "Ilość",
+            "de": "Menge"
+          },
+          "FeatureValue": "1",
+          "FeatureValueNames": {
+            "pl": "1",
+            "en": "1",
+            "de": "1"
+          },
+          "Order": 10,
+          "Visible": 1
+        },
+        {
+          "FeatureId": 20006,
+          "FeatureNames": {
+            "pl": "Wysokość okna",
+            "en": "Wysokość okna",
+            "de": "Wysokość okna"
+          },
+          "FeatureValue": "2000",
+          "FeatureValueNames": {
+            "pl": "2000",
+            "en": "2000",
+            "de": "2000"
+          },
+          "Order": 30,
+          "Visible": 1
+        },
+        {
+          "FeatureId": 20007,
+          "FeatureNames": {
+            "pl": "Szerokość okna",
+            "en": "Szerokość okna",
+            "de": "Szerokość okna"
+          },
+          "FeatureValue": "3000",
+          "FeatureValueNames": {
+            "pl": "3000",
+            "en": "3000",
+            "de": "3000"
+          },
+          "Order": 20,
+          "Visible": 1
+        },
+        {
+          "FeatureId": 20011,
+          "FeatureNames": {
+            "pl": "Okleina",
+            "en": "Okleina",
+            "de": "Okleina"
+          },
+          "FeatureValue": "23",
+          "FeatureValueNames": {
+            "pl": "Lakier dwustronny",
+            "en": "Lakier dwustronny",
+            "de": "Lakier dwustronny"
+          },
+          "Order": 0,
+          "Visible": 1
+        },
+        {
+          "FeatureId": 20012,
+          "FeatureNames": {
+            "pl": "Rodzaj okuć",
+            "en": "Rodzaj okuć",
+            "de": "Rodzaj okuć"
+          },
+          "FeatureValue": "SIAU",
+          "FeatureValueNames": {
+            "pl": "SIEGENIA",
+            "en": "SIEGENIA",
+            "de": "SIEGENIA"
+          },
+          "Order": 0,
+          "Visible": 1
+        },
+        {
+          "FeatureId": 20014,
+          "FeatureNames": {
+            "pl": "Kolor drewna",
+            "en": "Kolor profilu",
+            "de": "Kolor profilu"
+          },
+          "FeatureValue": "DR-BILINGA",
+          "FeatureValueNames": {
+            "pl": "BILINGA",
+            "en": "BILINGA",
+            "de": "BILINGA"
+          },
+          "Order": 60,
+          "Visible": 1
+        },
+        {
+          "FeatureId": 20018,
+          "FeatureNames": {
+            "pl": "Klasa okuć",
+            "en": "Klasa okuć",
+            "de": "Klasa okuć"
+          },
+          "FeatureValue": "STD",
+          "FeatureValueNames": {
+            "pl": "STD",
+            "en": "STD",
+            "de": "STD"
+          },
+          "Order": 0,
+          "Visible": 1
+        },
+        {
+          "FeatureId": 20023,
+          "FeatureNames": {
+            "pl": "Niski próg",
+            "en": "Niski próg",
+            "de": "Niski próg"
+          },
+          "FeatureValue": "PRGPRG-PROG182-HST.IV78",
+          "FeatureValueNames": {
+            "pl": "Próg ECO PASS HST IV78 182 mm",
+            "en": "Próg ECO PASS HST IV78 182 mm",
+            "de": "Próg ECO PASS HST IV78 182 mm"
+          },
+          "Order": 0,
+          "Visible": 1
+        },
+        {
+          "FeatureId": 20355,
+          "FeatureNames": {
+            "pl": "Okucia",
+            "en": "Okucia",
+            "de": "Okucia"
+          },
+          "FeatureValue": "",
+          "FeatureValueNames": {
+            "pl": "",
+            "en": "",
+            "de": ""
+          },
+          "Order": 0,
+          "Visible": 0
+        },
+        {
+          "FeatureId": 20503,
+          "FeatureNames": {
+            "pl": "RAL",
+            "en": "RAL",
+            "de": "RAL"
+          },
+          "FeatureValue": "",
+          "FeatureValueNames": {
+            "pl": "",
+            "en": "",
+            "de": ""
+          },
+          "Order": 0,
+          "Visible": 0
+        },
+        {
+          "FeatureId": 20504,
+          "FeatureNames": {
+            "pl": "RAL zew",
+            "en": "RAL zew",
+            "de": "RAL zew"
+          },
+          "FeatureValue": "",
+          "FeatureValueNames": {
+            "pl": "",
+            "en": "",
+            "de": ""
+          },
+          "Order": 0,
+          "Visible": 0
+        },
+        {
+          "FeatureId": 20605,
+          "FeatureNames": {
+            "pl": "Profil ramy",
+            "en": "Profil ramy",
+            "de": "Profil ramy"
+          },
+          "FeatureValue": "",
+          "FeatureValueNames": {
+            "pl": "",
+            "en": "",
+            "de": ""
+          },
+          "Order": 0,
+          "Visible": 0
+        },
+        {
+          "FeatureId": 20606,
+          "FeatureNames": {
+            "pl": "Profil skrzydła",
+            "en": "Profil skrzydła",
+            "de": "Profil skrzydła"
+          },
+          "FeatureValue": "",
+          "FeatureValueNames": {
+            "pl": "",
+            "en": "",
+            "de": ""
+          },
+          "Order": 0,
+          "Visible": 0
+        },
+        {
+          "FeatureId": 20610,
+          "FeatureNames": {
+            "pl": "Szyby zespolone",
+            "en": "Szyby zespolone",
+            "de": "Szyby zespolone"
+          },
+          "FeatureValue": "Standard",
+          "FeatureValueNames": {
+            "pl": "Szkło standardowe",
+            "en": "Szkło standardowe",
+            "de": "Szkło standardowe"
+          },
+          "Order": 0,
+          "Visible": 0
+        },
+        {
+          "FeatureId": 20611,
+          "FeatureNames": {
+            "pl": "Ramka",
+            "en": "Ramka",
+            "de": "Ramka"
+          },
+          "FeatureValue": "BRAK",
+          "FeatureValueNames": {
+            "pl": "BRAK",
+            "en": "BRAK",
+            "de": "Kein"
+          },
+          "Order": 0,
+          "Visible": 0
+        },
+        {
+          "FeatureId": 20616,
+          "FeatureNames": {
+            "pl": "Kolor uszczelki",
+            "en": "Kolor uszczelki",
+            "de": "Kolor uszczelki"
+          },
+          "FeatureValue": "9",
+          "FeatureValueNames": {
+            "pl": "Czarna (RAL9004)",
+            "en": "Czarna (RAL9004)",
+            "de": "Czarna (RAL9004)"
+          },
+          "Order": 0,
+          "Visible": 1
+        },
+        {
+          "FeatureId": 20637,
+          "FeatureNames": {
+            "pl": "Kolor klamki",
+            "en": "Kolor klamki wewn.",
+            "de": "Kolor klamki wewn."
+          },
+          "FeatureValue": "100",
+          "FeatureValueNames": {
+            "pl": "C33 (Stare złoto)",
+            "en": "C33 (Stare złoto)",
+            "de": "C33 (Stare złoto)"
+          },
+          "Order": 0,
+          "Visible": 1
+        },
+        {
+          "FeatureId": 20638,
+          "FeatureNames": {
+            "pl": "Typ konstrukcji",
+            "en": "Typ",
+            "de": "Typ"
+          },
+          "FeatureValue": "55",
+          "FeatureValueNames": {
+            "pl": "HST Drewno IV78 SCHEMAT: A",
+            "en": "HST Drewno IV78 SCHEMAT: A",
+            "de": "HST Drewno IV78 SCHEMAT: A"
+          },
+          "Order": 0,
+          "Visible": 1
+        },
+        {
+          "FeatureId": 20640,
+          "FeatureNames": {
+            "pl": "Rodzaj okna/drzwi",
+            "en": "Rodzaj okna/drzwi",
+            "de": "Rodzaj okna/drzwi"
+          },
+          "FeatureValue": "1",
+          "FeatureValueNames": {
+            "pl": "Okno",
+            "en": "Okno",
+            "de": "Okno"
+          },
+          "Order": 0,
+          "Visible": 1
+        },
+        {
+          "FeatureId": 20655,
+          "FeatureNames": {
+            "pl": "Kolor okapnika",
+            "en": "Kolor okapnika",
+            "de": "Kolor okapnika"
+          },
+          "FeatureValue": "1",
+          "FeatureValueNames": {
+            "pl": "Antracyt (RAL7016)",
+            "en": "Antracyt (RAL7016)",
+            "de": "Antracyt (RAL7016)"
+          },
+          "Order": 0,
+          "Visible": 1
+        },
+        {
+          "FeatureId": 20666,
+          "FeatureNames": {
+            "pl": "Kolor klamki zewn.",
+            "en": "Kolor klamki zewn.",
+            "de": "Kolor klamki zewn."
+          },
+          "FeatureValue": "100",
+          "FeatureValueNames": {
+            "pl": "Biały",
+            "en": "Biały",
+            "de": "Biały"
+          },
+          "Order": 0,
+          "Visible": 1
+        },
+        {
+          "FeatureId": 20673,
+          "FeatureNames": {
+            "pl": "Kotwy",
+            "en": "Kotwy",
+            "de": "Kotwy"
+          },
+          "FeatureValue": "0",
+          "FeatureValueNames": {
+            "pl": "NIE",
+            "en": "NIE",
+            "de": "NEIN"
+          },
+          "Order": 0,
+          "Visible": 0
+        },
+        {
+          "FeatureId": 20678,
+          "FeatureNames": {
+            "pl": "Kolor profilu RAL",
+            "en": "Kolor profilu RAL",
+            "de": "Kolor profilu RAL"
+          },
+          "FeatureValue": "",
+          "FeatureValueNames": {
+            "pl": "",
+            "en": "",
+            "de": ""
+          },
+          "Order": 0,
+          "Visible": 0
+        },
+        {
+          "FeatureId": 20681,
+          "FeatureNames": {
+            "pl": "Dwukolor Ral",
+            "en": "Dwukolor Ral",
+            "de": "Dwukolor Ral"
+          },
+          "FeatureValue": "0",
+          "FeatureValueNames": {
+            "pl": "Nie",
+            "en": "Nie",
+            "de": "NEIN"
+          },
+          "Order": 0,
+          "Visible": 1
+        },
+        {
+          "FeatureId": 20682,
+          "FeatureNames": {
+            "pl": "Kolor silikonu 2",
+            "en": "Kolor silikonu 2",
+            "de": "Kolor silikonu 2"
+          },
+          "FeatureValue": "1",
+          "FeatureValueNames": {
+            "pl": "Biały",
+            "en": "Biały",
+            "de": "Biały"
+          },
+          "Order": 0,
+          "Visible": 0
+        },
+        {
+          "FeatureId": 20688,
+          "FeatureNames": {
+            "pl": "Frez szprosów wew.",
+            "en": "Frez szprosów wew.",
+            "de": "Frez szprosów wew."
+          },
+          "FeatureValue": "",
+          "FeatureValueNames": {
+            "pl": "",
+            "en": "",
+            "de": ""
+          },
+          "Order": 0,
+          "Visible": 0
+        },
+        {
+          "FeatureId": 20689,
+          "FeatureNames": {
+            "pl": "Frez listwy na okap. alu. góra",
+            "en": "Frez listwy na okap. alu. góra",
+            "de": "Frez listwy na okap. alu. góra"
+          },
+          "FeatureValue": "",
+          "FeatureValueNames": {
+            "pl": "",
+            "en": "",
+            "de": ""
+          },
+          "Order": 0,
+          "Visible": 0
+        },
+        {
+          "FeatureId": 20690,
+          "FeatureNames": {
+            "pl": "Frez listew przymyk. zewn.",
+            "en": "Frez listew przymyk. zewn.",
+            "de": "Frez listew przymyk. zewn."
+          },
+          "FeatureValue": "",
+          "FeatureValueNames": {
+            "pl": "",
+            "en": "",
+            "de": ""
+          },
+          "Order": 0,
+          "Visible": 0
+        },
+        {
+          "FeatureId": 20691,
+          "FeatureNames": {
+            "pl": "Frez listew przymyk. wew.",
+            "en": "Frez listew przymyk. wew.",
+            "de": "Frez listew przymyk. wew."
+          },
+          "FeatureValue": "",
+          "FeatureValueNames": {
+            "pl": "",
+            "en": "",
+            "de": ""
+          },
+          "Order": 0,
+          "Visible": 0
+        },
+        {
+          "FeatureId": 20692,
+          "FeatureNames": {
+            "pl": "Frez szprosów zewn.",
+            "en": "Frez szprosów zewn.",
+            "de": "Frez szprosów zewn."
+          },
+          "FeatureValue": "",
+          "FeatureValueNames": {
+            "pl": "",
+            "en": "",
+            "de": ""
+          },
+          "Order": 0,
+          "Visible": 0
+        },
+        {
+          "FeatureId": 20693,
+          "FeatureNames": {
+            "pl": "Frez listew przyszybowych",
+            "en": "Frez listew przyszybowych",
+            "de": "Frez listew przyszybowych"
+          },
+          "FeatureValue": "",
+          "FeatureValueNames": {
+            "pl": "",
+            "en": "",
+            "de": ""
+          },
+          "Order": 0,
+          "Visible": 0
+        },
+        {
+          "FeatureId": 20694,
+          "FeatureNames": {
+            "pl": "Frez listew na ślemię",
+            "en": "Frez listew na ślemię",
+            "de": "Frez listew na ślemię"
+          },
+          "FeatureValue": "",
+          "FeatureValueNames": {
+            "pl": "",
+            "en": "",
+            "de": ""
+          },
+          "Order": 0,
+          "Visible": 0
+        },
+        {
+          "FeatureId": 20695,
+          "FeatureNames": {
+            "pl": "Frez listwy na okap. alu. dół",
+            "en": "Frez listwy na okap. alu. dół",
+            "de": "Frez listwy na okap. alu. dół"
+          },
+          "FeatureValue": "",
+          "FeatureValueNames": {
+            "pl": "",
+            "en": "",
+            "de": ""
+          },
+          "Order": 0,
+          "Visible": 0
+        },
+        {
+          "FeatureId": 20728,
+          "FeatureNames": {
+            "pl": "Grupa kolorystyczna",
+            "en": "Grupa oklein",
+            "de": "Grupa oklein"
+          },
+          "FeatureValue": "1",
+          "FeatureValueNames": {
+            "pl": "KOLORY STANDARD",
+            "en": "KOLORY STANDARD",
+            "de": "KOLORY STANDARD"
+          },
+          "Order": 0,
+          "Visible": 1
+        },
+        {
+          "FeatureId": 20729,
+          "FeatureNames": {
+            "pl": "Typ połączenia narożnika",
+            "en": "Typ naroża",
+            "de": "Typ naroża"
+          },
+          "FeatureValue": "1",
+          "FeatureValueNames": {
+            "pl": "Rama ZAGNIATANA / Skrzydło ZAGNIATANE",
+            "en": "Rama ZAGNIATANA / Skrzydło ZAGNIATANE",
+            "de": "Rama ZAGNIATANA / Skrzydło ZAGNIATANE"
+          },
+          "Order": 0,
+          "Visible": 0
+        },
+        {
+          "FeatureId": 20801,
+          "FeatureNames": {
+            "pl": "Wzór szpr wew",
+            "en": "Wzór szpr wew",
+            "de": "Wzór szpr wew"
+          },
+          "FeatureValue": "",
+          "FeatureValueNames": {
+            "pl": "",
+            "en": "",
+            "de": ""
+          },
+          "Order": 0,
+          "Visible": 0
+        },
+        {
+          "FeatureId": 20802,
+          "FeatureNames": {
+            "pl": "Wzór okap góra",
+            "en": "Wzór okap góra",
+            "de": "Wzór okap góra"
+          },
+          "FeatureValue": "",
+          "FeatureValueNames": {
+            "pl": "",
+            "en": "",
+            "de": ""
+          },
+          "Order": 0,
+          "Visible": 0
+        },
+        {
+          "FeatureId": 20803,
+          "FeatureNames": {
+            "pl": "Wzór przymyk zew",
+            "en": "Wzór przymyk zew",
+            "de": "Wzór przymyk zew"
+          },
+          "FeatureValue": "",
+          "FeatureValueNames": {
+            "pl": "",
+            "en": "",
+            "de": ""
+          },
+          "Order": 0,
+          "Visible": 0
+        },
+        {
+          "FeatureId": 20804,
+          "FeatureNames": {
+            "pl": "Wzór przymyk wew",
+            "en": "Wzór przymyk wew",
+            "de": "Wzór przymyk wew"
+          },
+          "FeatureValue": "",
+          "FeatureValueNames": {
+            "pl": "",
+            "en": "",
+            "de": ""
+          },
+          "Order": 0,
+          "Visible": 0
+        },
+        {
+          "FeatureId": 20805,
+          "FeatureNames": {
+            "pl": "Wzór szpr zew",
+            "en": "Wzór szpr zew",
+            "de": "Wzór szpr zew"
+          },
+          "FeatureValue": "",
+          "FeatureValueNames": {
+            "pl": "",
+            "en": "",
+            "de": ""
+          },
+          "Order": 0,
+          "Visible": 0
+        },
+        {
+          "FeatureId": 20806,
+          "FeatureNames": {
+            "pl": "Wzór listwy przysz",
+            "en": "Wzór listwy przysz",
+            "de": "Wzór listwy przysz"
+          },
+          "FeatureValue": "",
+          "FeatureValueNames": {
+            "pl": "",
+            "en": "",
+            "de": ""
+          },
+          "Order": 0,
+          "Visible": 0
+        },
+        {
+          "FeatureId": 20807,
+          "FeatureNames": {
+            "pl": "Wzór ślemię",
+            "en": "Wzór ślemię",
+            "de": "Wzór ślemię"
+          },
+          "FeatureValue": "",
+          "FeatureValueNames": {
+            "pl": "",
+            "en": "",
+            "de": ""
+          },
+          "Order": 0,
+          "Visible": 0
+        },
+        {
+          "FeatureId": 20808,
+          "FeatureNames": {
+            "pl": "Wzór okap dół",
+            "en": "Wzór okap dół",
+            "de": "Wzór okap dół"
+          },
+          "FeatureValue": "",
+          "FeatureValueNames": {
+            "pl": "",
+            "en": "",
+            "de": ""
+          },
+          "Order": 0,
+          "Visible": 0
+        },
+        {
+          "FeatureId": 24001,
+          "FeatureNames": {
+            "pl": "Gatunek drewna",
+            "en": "Gatunek drewna",
+            "de": "Gatunek drewna"
+          },
+          "FeatureValue": "2",
+          "FeatureValueNames": {
+            "pl": "Sosna",
+            "en": "Sosna",
+            "de": "Sosna"
+          },
+          "Order": 40,
+          "Visible": 1
+        },
+        {
+          "FeatureId": 24003,
+          "FeatureNames": {
+            "pl": "Okapnik ramy",
+            "en": "Okapnik ramy",
+            "de": "Okapnik ramy"
+          },
+          "FeatureValue": "1",
+          "FeatureValueNames": {
+            "pl": "Kątowy (AWZK 14/22)          ",
+            "en": "Kątowy (AWZK 14/22)          ",
+            "de": "Kątowy (AWZK 14/22)          "
+          },
+          "Order": 70,
+          "Visible": 1
+        },
+        {
+          "FeatureId": 24004,
+          "FeatureNames": {
+            "pl": "Podcięcie",
+            "en": "Podcięcie",
+            "de": "Podcięcie"
+          },
+          "FeatureValue": "1",
+          "FeatureValueNames": {
+            "pl": "Brak frezowania pod parapet             ",
+            "en": "Brak frezowania pod parapet             ",
+            "de": "Brak frezowania pod parapet             "
+          },
+          "Order": 0,
+          "Visible": 0
+        },
+        {
+          "FeatureId": 24007,
+          "FeatureNames": {
+            "pl": "Kolor silikonu",
+            "en": "Kolor silikonu",
+            "de": "Kolor silikonu"
+          },
+          "FeatureValue": "1",
+          "FeatureValueNames": {
+            "pl": "Biały",
+            "en": "Biały",
+            "de": "Biały"
+          },
+          "Order": 0,
+          "Visible": 1
+        },
+        {
+          "FeatureId": 24009,
+          "FeatureNames": {
+            "pl": "Okapnik skrzydła",
+            "en": "Okapnik skrzydła",
+            "de": "Okapnik skrzydła"
+          },
+          "FeatureValue": "1",
+          "FeatureValueNames": {
+            "pl": "Kątowy (APSK)",
+            "en": "Kątowy (APSK)",
+            "de": "Kątowy (APSK)"
+          },
+          "Order": 80,
+          "Visible": 1
+        },
+        {
+          "FeatureId": 24010,
+          "FeatureNames": {
+            "pl": "Struktura",
+            "en": "Struktura",
+            "de": "Struktura"
+          },
+          "FeatureValue": "1",
+          "FeatureValueNames": {
+            "pl": "Lita",
+            "en": "Lita",
+            "de": "Lita"
+          },
+          "Order": 50,
+          "Visible": 1
+        },
+        {
+          "FeatureId": 24013,
+          "FeatureNames": {
+            "pl": "Głowice ozdobne",
+            "en": "Głowice ozdobne",
+            "de": "Głowice ozdobne"
+          },
+          "FeatureValue": "1",
+          "FeatureValueNames": {
+            "pl": "brak",
+            "en": "brak",
+            "de": "Kein"
+          },
+          "Order": 0,
+          "Visible": 0
+        },
+        {
+          "FeatureId": 24014,
+          "FeatureNames": {
+            "pl": "Listwy ozdobne",
+            "en": "Listwy ozdobne",
+            "de": "Listwy ozdobne"
+          },
+          "FeatureValue": "0",
+          "FeatureValueNames": {
+            "pl": "Brak",
+            "en": "Brak",
+            "de": "Kein"
+          },
+          "Order": 0,
+          "Visible": 0
+        },
+        {
+          "FeatureId": 24015,
+          "FeatureNames": {
+            "pl": "Położenie skrzydła",
+            "en": "Położenie skrzydła",
+            "de": "Położenie skrzydła"
+          },
+          "FeatureValue": "1",
+          "FeatureValueNames": {
+            "pl": "zlicowane",
+            "en": "zlicowane",
+            "de": "zlicowane"
+          },
+          "Order": 0,
+          "Visible": 0
+        },
+        {
+          "FeatureId": 24017,
+          "FeatureNames": {
+            "pl": "Grupa kolorystyczna",
+            "en": "Grupa nakładek ALU",
+            "de": "Grupa nakładek ALU"
+          },
+          "FeatureValue": "1",
+          "FeatureValueNames": {
+            "pl": "ALUMINIUM AA-C, AA-R (Anoda, Efekt anody)",
+            "en": "ALUMINIUM AA-C, AA-R (Anoda, Efekt anody)",
+            "de": "ALUMINIUM AA-C, AA-R (Anoda, Efekt anody)"
+          },
+          "Order": 0,
+          "Visible": 0
+        },
+        {
+          "FeatureId": 24018,
+          "FeatureNames": {
+            "pl": "Kolor nakładki aluminiowej",
+            "en": "Kolor nakładki ALU",
+            "de": "Kolor nakładki ALU"
+          },
+          "FeatureValue": "AA-C0",
+          "FeatureValueNames": {
+            "pl": "AA-C0",
+            "en": "AA-C0",
+            "de": "AA-C0"
+          },
+          "Order": 0,
+          "Visible": 0
+        },
+        {
+          "FeatureId": 24019,
+          "FeatureNames": {
+            "pl": "Nakładka aluminiowa ramy",
+            "en": "Nakładka aluminiowa ramy",
+            "de": "Nakładka aluminiowa ramy"
+          },
+          "FeatureValue": "",
+          "FeatureValueNames": {
+            "pl": "",
+            "en": "",
+            "de": ""
+          },
+          "Order": 0,
+          "Visible": 0
+        },
+        {
+          "FeatureId": 25001,
+          "FeatureNames": {
+            "pl": "Systemodawca",
+            "en": "Systemodawca",
+            "de": "Systemodawca"
+          },
+          "FeatureValue": "100",
+          "FeatureValueNames": {
+            "pl": "Drewno",
+            "en": "Drewno",
+            "de": "Drewno"
+          },
+          "Order": 0,
+          "Visible": 0
+        },
+        {
+          "FeatureId": 25006,
+          "FeatureNames": {
+            "pl": "Technologia",
+            "en": "System",
+            "de": "System"
+          },
+          "FeatureValue": "208",
+          "FeatureValueNames": {
+            "pl": "HST DREWNO 78 MM",
+            "en": "HST DREWNO 78 MM",
+            "de": "HST DREWNO 78 MM"
+          },
+          "Order": 0,
+          "Visible": 1
+        },
+        {
+          "FeatureId": 25014,
+          "FeatureNames": {
+            "pl": "Kolor osłonek",
+            "en": "Kolor osłonek",
+            "de": "Kolor osłonek"
+          },
+          "FeatureValue": "20",
+          "FeatureValueNames": {
+            "pl": "Biały (RAL9003)",
+            "en": "Biały (RAL9003)",
+            "de": "Biały (RAL9003)"
+          },
+          "Order": 0,
+          "Visible": 0
+        },
+        {
+          "FeatureId": 50000,
+          "FeatureNames": {
+            "pl": "SRP1",
+            "en": "SRP1",
+            "de": "SRP1"
+          },
+          "FeatureValue": "OKV",
+          "FeatureValueNames": {
+            "pl": "OKV",
+            "en": "OKV",
+            "de": "OKV"
+          },
+          "Order": 0,
+          "Visible": 1
+        },
+        {
+          "FeatureId": 50001,
+          "FeatureNames": {
+            "pl": "SRP2",
+            "en": "SRP2",
+            "de": "SRP2"
+          },
+          "FeatureValue": "VHW",
+          "FeatureValueNames": {
+            "pl": "VHW",
+            "en": "VHW",
+            "de": "VHW"
+          },
+          "Order": 0,
+          "Visible": 1
+        },
+        {
+          "FeatureId": 50002,
+          "FeatureNames": {
+            "pl": "SRP3",
+            "en": "SRP3",
+            "de": "SRP3"
+          },
+          "FeatureValue": "W04",
+          "FeatureValueNames": {
+            "pl": "W04",
+            "en": "W04",
+            "de": "W04"
+          },
+          "Order": 0,
+          "Visible": 1
+        },
+        {
+          "FeatureId": 50003,
+          "FeatureNames": {
+            "pl": "SRP4",
+            "en": "SRP4",
+            "de": "SRP4"
+          },
+          "FeatureValue": "",
+          "FeatureValueNames": {
+            "pl": "",
+            "en": "",
+            "de": ""
+          },
+          "Order": 0,
+          "Visible": 1
+        },
+        {
+          "FeatureId": 50004,
+          "FeatureNames": {
+            "pl": "SRP5",
+            "en": "SRP5",
+            "de": "SRP5"
+          },
+          "FeatureValue": "INO",
+          "FeatureValueNames": {
+            "pl": "INO",
+            "en": "INO",
+            "de": "INO"
+          },
+          "Order": 0,
+          "Visible": 1
+        },
+        {
+          "FeatureId": 50005,
+          "FeatureNames": {
+            "pl": "SRP6",
+            "en": "SRP6",
+            "de": "SRP6"
+          },
+          "FeatureValue": "22",
+          "FeatureValueNames": {
+            "pl": "22",
+            "en": "22",
+            "de": "22"
+          },
+          "Order": 0,
+          "Visible": 1
+        },
+        {
+          "FeatureId": 50006,
+          "FeatureNames": {
+            "pl": "SRP7",
+            "en": "SRP7",
+            "de": "SRP7"
+          },
+          "FeatureValue": "",
+          "FeatureValueNames": {
+            "pl": "",
+            "en": "",
+            "de": ""
+          },
+          "Order": 0,
+          "Visible": 1
+        },
+        {
+          "FeatureId": 50007,
+          "FeatureNames": {
+            "pl": "SRP8",
+            "en": "SRP8",
+            "de": "SRP8"
+          },
+          "FeatureValue": "",
+          "FeatureValueNames": {
+            "pl": "",
+            "en": "",
+            "de": ""
+          },
+          "Order": 0,
+          "Visible": 1
+        },
+        {
+          "FeatureId": 50008,
+          "FeatureNames": {
+            "pl": "SRP9",
+            "en": "SRP9",
+            "de": "SRP9"
+          },
+          "FeatureValue": "OKV",
+          "FeatureValueNames": {
+            "pl": "OKV",
+            "en": "OKV",
+            "de": "OKV"
+          },
+          "Order": 0,
+          "Visible": 1
+        },
+        {
+          "FeatureId": 50009,
+          "FeatureNames": {
+            "pl": "SRP0",
+            "en": "SRP0",
+            "de": "SRP0"
+          },
+          "FeatureValue": "P78",
+          "FeatureValueNames": {
+            "pl": "P78",
+            "en": "P78",
+            "de": "P78"
+          },
+          "Order": 0,
+          "Visible": 1
+        },
+        {
+          "FeatureId": 50010,
+          "FeatureNames": {
+            "pl": "PRP0",
+            "en": "PRP0",
+            "de": "PRP0"
+          },
+          "FeatureValue": "",
+          "FeatureValueNames": {
+            "pl": "",
+            "en": "",
+            "de": ""
+          },
+          "Order": 0,
+          "Visible": 1
+        },
+        {
+          "FeatureId": 50011,
+          "FeatureNames": {
+            "pl": "PRP1",
+            "en": "PRP1",
+            "de": "PRP1"
+          },
+          "FeatureValue": "PF",
+          "FeatureValueNames": {
+            "pl": "PF",
+            "en": "PF",
+            "de": "PF"
+          },
+          "Order": 0,
+          "Visible": 1
+        },
+        {
+          "FeatureId": 50012,
+          "FeatureNames": {
+            "pl": "SHCN",
+            "en": "SHCN",
+            "de": "SHCN"
+          },
+          "FeatureValue": "NTV",
+          "FeatureValueNames": {
+            "pl": "NTV",
+            "en": "NTV",
+            "de": "NTV"
+          },
+          "Order": 0,
+          "Visible": 1
+        },
+        {
+          "FeatureId": 50013,
+          "FeatureNames": {
+            "pl": "SHCM",
+            "en": "SHCM",
+            "de": "SHCM"
+          },
+          "FeatureValue": "OKN",
+          "FeatureValueNames": {
+            "pl": "OKN",
+            "en": "OKN",
+            "de": "OKN"
+          },
+          "Order": 0,
+          "Visible": 1
+        },
+        {
+          "FeatureId": 50022,
+          "FeatureNames": {
+            "pl": "LITM",
+            "en": "LITM",
+            "de": "LITM"
+          },
+          "FeatureValue": "C4306834W04OKV",
+          "FeatureValueNames": {
+            "pl": "C4306834W04OKV",
+            "en": "C4306834W04OKV",
+            "de": "C4306834W04OKV"
+          },
+          "Order": 0,
+          "Visible": 1
+        },
+        {
+          "FeatureId": 50023,
+          "FeatureNames": {
+            "pl": "DSC1",
+            "en": "DSC1",
+            "de": "DSC1"
+          },
+          "FeatureValue": "HST D-D IV78 SOS 3000x2000",
+          "FeatureValueNames": {
+            "pl": "HST D-D IV78 SOS 3000x2000",
+            "en": "HST D-D IV78 SOS 3000x2000",
+            "de": "HST D-D IV78 SOS 3000x2000"
+          },
+          "Order": 0,
+          "Visible": 1
+        },
+        {
+          "FeatureId": 50024,
+          "FeatureNames": {
+            "pl": "DSC2",
+            "en": "DSC2",
+            "de": "DSC2"
+          },
+          "FeatureValue": "KD:DR-BILINGA KA:R7016",
+          "FeatureValueNames": {
+            "pl": "KD:DR-BILINGA KA:R7016",
+            "en": "KD:DR-BILINGA KA:R7016",
+            "de": "KD:DR-BILINGA KA:R7016"
+          },
+          "Order": 0,
+          "Visible": 1
+        },
+        {
+          "FeatureId": 50025,
+          "FeatureNames": {
+            "pl": "LTLV",
+            "en": "LTLV",
+            "de": "LTLV"
+          },
+          "FeatureValue": "50",
+          "FeatureValueNames": {
+            "pl": "50",
+            "en": "50",
+            "de": "50"
+          },
+          "Order": 0,
+          "Visible": 1
+        },
+        {
+          "FeatureId": 50026,
+          "FeatureNames": {
+            "pl": "G70CC01",
+            "en": "G70CC01",
+            "de": "G70CC01"
+          },
+          "FeatureValue": "A30",
+          "FeatureValueNames": {
+            "pl": "A30",
+            "en": "A30",
+            "de": "A30"
+          },
+          "Order": 0,
+          "Visible": 1
+        },
+        {
+          "FeatureId": 50036,
+          "FeatureNames": {
+            "pl": "PRP3",
+            "en": "PRP3",
+            "de": "PRP3"
+          },
+          "FeatureValue": "",
+          "FeatureValueNames": {
+            "pl": "",
+            "en": "",
+            "de": ""
+          },
+          "Order": 0,
+          "Visible": 1
+        },
+        {
+          "FeatureId": 100004,
+          "FeatureNames": {
+            "pl": "Indeks",
+            "en": "Indeks",
+            "de": "Indeks"
+          },
+          "FeatureValue": "C4306834W04OKV",
+          "FeatureValueNames": {
+            "pl": "C4306834W04OKV",
+            "en": "C4306834W04OKV",
+            "de": "C4306834W04OKV"
+          },
+          "Order": 0,
+          "Visible": 1
+        }
+      ]
+    }
+  ],
+  "resultType": "ResultPackageDataModel",
+  "cartCnt": 0,
+  "message": null,
+  "key": null,
+  "success": true
+}

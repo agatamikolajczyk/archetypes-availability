@@ -1,0 +1,29 @@
+[
+  {
+    "key": 1,
+    "translations": {
+      "en": "Roof window",
+      "pl": "Okna do dachów skośnych",
+      "de": "Option 1",
+      "fr": "Option 1"
+    }
+  },
+  {
+    "key": 2,
+    "translations": {
+      "en": "Option 2",
+      "pl": "Okna do dachów płaskich",
+      "de": "Option 2",
+      "fr": "Option 2"
+    }
+  },
+  {
+    "key": 3,
+    "translations": {
+      "en": "Option 3",
+      "pl": "Markizy",
+      "de": "Option 3",
+      "fr": "Option 3"
+    }
+  }
+]
