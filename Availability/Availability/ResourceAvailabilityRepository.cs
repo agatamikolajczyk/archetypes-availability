@@ -2,7 +2,7 @@ using System.Data;
 
 namespace Availability;
 
-public class ResourceAvailabilityRepository(IDbConnection dbConnection)
+public class ResourceAvailabilityRepository()//(IDbConnection dbConnection)
 {
     public async Task SaveNewAsync(ResourceGroupedAvailability resourceAvailability)
     {
@@ -15,7 +15,6 @@ public class ResourceAvailabilityRepository(IDbConnection dbConnection)
     
     private Task SaveNewAsync(IList<ResourceAvailability> availabilities)
     {
-        //here will be resitance layer in future
         return Task.CompletedTask;
     }
 }

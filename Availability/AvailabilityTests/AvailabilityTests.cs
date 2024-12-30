@@ -1,17 +1,17 @@
 using Availability;
+using Microsoft.Extensions.DependencyInjection;
 
 namespace AvailabilityTests;
 
-public class AvailabilityTests
+public class AvailabilityTests : IntegrationTestWithSharedApp
 {
-  
     private readonly IAvailabilityFacade _availabilityFacade;
- 
-    public AvailabilityTests()
+
+    public AvailabilityTests(IntegrationTestApp app) : base(app)
     {
-        _availabilityFacade=new AvailabilityFacade(new ResourceAvailabilityRepository())
+        _availabilityFacade = Scope.ServiceProvider.GetRequiredService<IAvailabilityFacade>();
     }
-    
+
     [Fact]
     public async Task CanCreateAvailabilitySlots()
     {
@@ -27,5 +27,4 @@ public class AvailabilityTests
         var monthlyCalendar = await _availabilityFacade.LoadCalendar(resourceId, entireMonth);
         Assert.Equal(Calendar.WithAvailableSlots(resourceId, oneDay), monthlyCalendar);
     }
-    
 }

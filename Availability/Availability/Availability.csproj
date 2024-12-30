@@ -5,6 +5,13 @@
         <LangVersion>latestmajor</LangVersion>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
+        <PreserveCompilationContext>false</PreserveCompilationContext>
     </PropertyGroup>
-
+    <ItemGroup>
+        <None Update="Resources\availability.sql">
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </None>
+  
+    </ItemGroup>
+    
 </Project>
